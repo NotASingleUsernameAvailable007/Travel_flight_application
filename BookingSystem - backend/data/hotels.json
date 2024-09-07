@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Grand Hotel 1",
+    "address": "1 Main Street, New York City, USA",
+    "stars": 4,
+    "rating": "7.5",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 121
+  },
+  {
+    "name": "Elite Suites 2",
+    "address": "2 Main Street, New York City, USA",
+    "stars": 4,
+    "rating": "7.8",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 405
+  },
+  {
+    "name": "Luxury Inn 3",
+    "address": "3 Main Street, New York City, USA",
+    "stars": 5,
+    "rating": "6.7",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 133
+  },
+  {
+    "name": "Royal Palace 4",
+    "address": "4 Main Street, New York City, USA",
+    "stars": 4,
+    "rating": "7.2",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 356
+  },
+  {
+    "name": "Comfort Stay 5",
+    "address": "5 Main Street, New York City, USA",
+    "stars": 4,
+    "rating": "6.6",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 148
+  },
+  {
+    "name": "Grand Hotel 1",
+    "address": "1 Main Street, Los Angeles, USA",
+    "stars": 4,
+    "rating": "6.8",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 150
+  },
+  {
+    "name": "Elite Suites 2",
+    "address": "2 Main Street, Los Angeles, USA",
+    "stars": 5,
+    "rating": "7.7",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 374
+  },
+  {
+    "name": "Luxury Inn 3",
+    "address": "3 Main Street, Los Angeles, USA",
+    "stars": 4,
+    "rating": "7.6",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 414
+  },
+  {
+    "name": "Royal Palace 4",
+    "address": "4 Main Street, Los Angeles, USA",
+    "stars": 5,
+    "rating": "7.1",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 379
+  },
+  {
+    "name": "Comfort Stay 5",
+    "address": "5 Main Street, Los Angeles, USA",
+    "stars": 5,
+    "rating": "8.3",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 161
+  },
+  {
+    "name": "Grand Hotel 1",
+    "address": "1 Main Street, London, UK",
+    "stars": 4,
+    "rating": "6.3",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 301
+  },
+  {
+    "name": "Elite Suites 2",
+    "address": "2 Main Street, London, UK",
+    "stars": 5,
+    "rating": "8.7",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 115
+  },
+  {
+    "name": "Luxury Inn 3",
+    "address": "3 Main Street, London, UK",
+    "stars": 4,
+    "rating": "8.1",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 356
+  },
+  {
+    "name": "Royal Palace 4",
+    "address": "4 Main Street, London, UK",
+    "stars": 5,
+    "rating": "6.2",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 456
+  },
+  {
+    "name": "Comfort Stay 5",
+    "address": "5 Main Street, London, UK",
+    "stars": 5,
+    "rating": "7.3",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 392
+  },
+  {
+    "name": "Grand Hotel 1",
+    "address": "1 Main Street, Tokyo, Japan",
+    "stars": 5,
+    "rating": "7.7",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 375
+  },
+  {
+    "name": "Elite Suites 2",
+    "address": "2 Main Street, Tokyo, Japan",
+    "stars": 4,
+    "rating": "6.2",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 213
+  },
+  {
+    "name": "Luxury Inn 3",
+    "address": "3 Main Street, Tokyo, Japan",
+    "stars": 4,
+    "rating": "8.0",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 355
+  },
+  {
+    "name": "Royal Palace 4",
+    "address": "4 Main Street, Tokyo, Japan",
+    "stars": 4,
+    "rating": "8.4",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 412
+  },
+  {
+    "name": "Comfort Stay 5",
+    "address": "5 Main Street, Tokyo, Japan",
+    "stars": 5,
+    "rating": "6.3",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 361
+  },
+  {
+    "name": "Grand Hotel 1",
+    "address": "1 Main Street, Sydney, Australia",
+    "stars": 5,
+    "rating": "7.9",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 231
+  },
+  {
+    "name": "Elite Suites 2",
+    "address": "2 Main Street, Sydney, Australia",
+    "stars": 4,
+    "rating": "6.7",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 251
+  },
+  {
+    "name": "Luxury Inn 3",
+    "address": "3 Main Street, Sydney, Australia",
+    "stars": 5,
+    "rating": "8.0",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 434
+  },
+  {
+    "name": "Royal Palace 4",
+    "address": "4 Main Street, Sydney, Australia",
+    "stars": 4,
+    "rating": "6.8",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 446
+  },
+  {
+    "name": "Comfort Stay 5",
+    "address": "5 Main Street, Sydney, Australia",
+    "stars": 4,
+    "rating": "6.9",
+    "amenities": [
+      "Free Wi-Fi",
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Bar",
+      "Room service"
+    ],
+    "price_per_night": 449
+  }
+]

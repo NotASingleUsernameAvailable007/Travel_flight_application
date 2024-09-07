@@ -1,0 +1,7 @@
+[
+    { "name": "New York City", "code": "JFK" },
+    { "name": "Los Angeles", "code": "LAX" },
+    { "name": "London", "code": "LHR" },
+    { "name": "Tokyo", "code": "NRT" },
+    { "name": "Sydney", "code": "SYD" }
+]
